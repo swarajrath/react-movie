@@ -1,68 +1,58 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br />
 
-## Available Scripts
+<p align="center">
+  <a href="https://swarajrath-react-movies.netlify.app/">
+    <img src="components/images/reactMovie_logo.png" alt="React Movies Logo">
+  </a>
 
-In the project directory, you can run:
+  <h3 align="center">Now explore the details of a movie very easily</h3>
 
-### `npm start`
+# React Movies — Movie application
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Explore latest movies very easily. Get the details of the cast and IMDB rating of any movie very easily using React Movie.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
+[![Cover Page of React Movies](components/images/Screenshot (11).png)](https://swarajrath-react-movies.netlify.app/)
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You can easily browse through all the movies easily and get to know more about your favorite movies.
 
-### `npm run build`
+Visit [React Movies](https://swarajrath-react-movies.netlify.app/), today!
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![Movies List](components/images/Screenshot (12).png)](https://swarajrath-react-movies.netlify.app/)
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
+## 🏭 Contribute
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This is one of my side projects which I made to learn the following:
 
-### `npm run eject`
+- React (Fundamentals)
+- Context API (For state management)
+- Tailwind CSS (An utility first CSS Framework)
+- Material UI (A set of pre-made react components)
+- And many little _reacty_ things...
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+So, if you're interested in movies, **this project is dedicated to you.** Give this a ⭐ if you liked!
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎉 Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Make sure you fork it, to make your copy of the repo.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+`git clone https://github.com/swarajrath/react-movie.git`
 
-## Learn More
+Now it's damn easy.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+**Install the dependencies (using `npm` or `yarn`**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Using `npm`: `npm install`
+- Using `yarn`: `yarn`
 
-### Code Splitting
+**Starting project locally**
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+`npm run start` or `yarn start`
 
-### Analyzing the Bundle Size
+**Extra information**
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- You can run `start` command just to run the react project and see how it works.
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+And of course, this couldn't have been possible without the great _free to use_ API called, **NetflixCLI**.
+Their service has been amazing throughout and you can use their API to create your own projects too!
