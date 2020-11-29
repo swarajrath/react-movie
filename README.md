@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://swarajrath-react-movies.netlify.app/">
-    <img src="components/images/reactMovie_logo.png" alt="React Movies Logo">
+    <img src="./src/components/images/reactMovie_logo.png" alt="React Movies Logo">
   </a>
 
   <h3 align="center">Now explore the details of a movie very easily</h3>
@@ -12,13 +12,13 @@
 Explore latest movies very easily. Get the details of the cast and IMDB rating of any movie very easily using React Movie.
 
 
-[![Cover Page of React Movies](components/images/Screenshot (11).png)](https://swarajrath-react-movies.netlify.app/)
+[![Cover Page of React Movies](src/components/images/Screenshot (11).png)](https://swarajrath-react-movies.netlify.app/)
 
 You can easily browse through all the movies easily and get to know more about your favorite movies.
 
 Visit [React Movies](https://swarajrath-react-movies.netlify.app/), today!
 
-[![Movies List](components/images/Screenshot (12).png)](https://swarajrath-react-movies.netlify.app/)
+[![Movies List](src/components/images/Screenshot (12).png)](https://swarajrath-react-movies.netlify.app/)
 
 ## 🏭 Contribute
 
